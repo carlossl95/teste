@@ -1,0 +1,15 @@
+C:\projetos\testes\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\projetos\testes\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\projetos\testes\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\projetos\testes\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\projetos\testes\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\projetos\testes\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
